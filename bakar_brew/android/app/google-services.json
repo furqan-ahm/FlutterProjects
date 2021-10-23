@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "69226224424",
+    "project_id": "bakar-coffee",
+    "storage_bucket": "bakar-coffee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:69226224424:android:f7445aba0a0a588e000e1d",
+        "android_client_info": {
+          "package_name": "maiqmaliq.com.bakar_brew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "69226224424-mp911676gjpnj30upf58cvhuir6aihul.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHz8mZo2rjZy-Xa3694iSDks61eV5Zjdc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "69226224424-mp911676gjpnj30upf58cvhuir6aihul.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
